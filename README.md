@@ -1,1 +1,2 @@
 # Unity
+Hoje, completei o Unity Essentials Pathway. Explorar as nuances do Unity foi uma experiência única, mas como sabemos, novas experiências são sempre enriquecedoras. Este curso me proporcionou uma compreensão sólida dos fundamentos do Unity, com destaque para a criação de modelos em ambientes 3D e 2D. Estou entusiasmado com os conhecimentos adquiridos e animado para aplicá-los em futuros projetos.
